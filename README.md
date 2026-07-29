@@ -8,7 +8,7 @@ To effectively understand the project, these files are recommended to be inspect
 
 The pre-project logs (CaCauLog[MONTH]) explain the proposed methodology into the future of this project. The institutions put down in the following logs are only mentioned due to how they are the likeliest to pick-up the project through the timeframe.
 
-The Discrepancy Catalog shows all of the discrepancies that were identified through extensive research.
+The Discrepancy Catalog shows all of the discrepancies that were identified through extensive research. The DBF, PRJ, SHP, and SHX filetypes have individual files. It is recommended to download them all, although it includes the Boundary and Evidence file in it.
 
 The Cauayan Weather file shows the risk of rain throughout the most of the rainy season since 2025.
 
