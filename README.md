@@ -6,9 +6,17 @@ An open-source technical project that aims to fix discrepancies and correct the 
 ## Main Files
 To effectively understand the project, these files are recommended to be inspected:
 
-The Discrepancy Catalog shows all of the discrepancies that were identified through extensive research.
+The Discrepancy Catalog shows all of the discrepancies that were identified through extensive research. Its layers can be shown in different filetypes, with:
 
-The Cauayan Weather file shows the risk of rain throughout the most of the rainy season since 2025.
+The Discrepancies directory shows the discrepancies in the Discrepancy Catalog in different filetypes.
+The DisconnectedAreas directory shows the disconnected areas in the Discrepancy Catalog in different filetypes.
+The Evidence directory shows the evidence in the Cauayan City Boundary and Evidence and the Discrepancy Catalog in different filetypes.
+
+To fully understand these different files, the Cauayan City official map is recommended to be used. If unable to find a source, please look at my other repository: https://github.com/cccr210/cauayan-city-barangay-boundary
+
+The Cauayan City Boundary and Evidence shows both the boundary and the collected evidence from different variations of online sources.
+
+The Cauayan Weather file shows the risk of rain throughout the most of the rainy season since 2025. It is available in both PDF and XLSX.
 
 ## Call to Action
 The project currently lacks an initiator for the project. If you know anything in the local area that may collaborate with this project, please let me know at cccr210@yahoo.com!
