@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="discon_areas" id="discon_areas">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>discon_areas</name>
+  <Placemark id="discon_areas.1">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.7766931529,16.9247146664159</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.2">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.725922898741,16.9274845261132</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.3">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.724625997579,16.9282407380681</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.4">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.854902818793,16.9245356829727</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.5">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.870400211231,16.911630057611</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.6">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.862058200886,16.853493923541</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.7">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.774391766764,16.855112182685</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.8">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.659947407711,16.8905936618474</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.9">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.778118975212,16.9564879727801</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.10">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.802708857808,16.9173886483067</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.11">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.804481396445,16.9145659605764</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.12">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.7822897399,16.9067973780701</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.13">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.78433786897,16.896918724683</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.14">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.805546322088,16.8818113558941</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.15">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.777263731207,16.9505077617804</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.16">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.776435027388,16.9528619638011</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.17">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.809293663995,16.823800696515</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.18">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.759767912486,16.9727208027007</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.19">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.754491911996,16.9555333377423</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.20">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.770689997904,16.9417590339367</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.21">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.775993431743,16.9430249815119</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.22">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.944457451735,16.8675665752314</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.23">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.94929312645,16.7447765120043</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discon_areas.24">
+	<ExtendedData><SchemaData schemaUrl="#discon_areas">
+		<SimpleData name="id">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.812692646689,16.8374200852746</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
