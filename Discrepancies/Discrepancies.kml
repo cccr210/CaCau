@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="discrepancies" id="discrepancies">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="Code" type="string"></SimpleField>
+	<SimpleField name="Conf. Type" type="float"></SimpleField>
+	<SimpleField name="Class" type="string"></SimpleField>
+</Schema>
+<Folder><name>discrepancies</name>
+  <Placemark id="discrepancies.1">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-1</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.829043800157,16.9689881134528</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.2">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-1</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.781160245905,16.9709347888758</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.3">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-2</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.756779912271,16.9683734614557</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.4">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-4</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.753872002718,16.9666121106824</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.5">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-3</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.755845719364,16.9679327570117</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.6">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-5</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.755286360549,16.9601664208571</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.7">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-6</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.754947396491,16.9617393316188</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.8">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-7</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.754971840906,16.957857993346</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.9">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-8</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.745560606972,16.9498838406875</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.10">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-9</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.736863049027,16.9425918776054</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.11">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-10</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.732292913705,16.9408719962865</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.12">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-1</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.716116099663,16.926601691535</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.13">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-2</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.726903787498,16.9175491174206</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.14">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-3</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.725946891877,16.9154952483632</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.15">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-11</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.759151712252,16.954783937761</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.16">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-12</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.75888222999,16.951708683893</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.17">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-2</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.834615943073,16.9599442555147</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.18">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-13</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.767262657043,16.9418256709843</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.19">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-14</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.774944553773,16.9417130092828</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.20">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-15</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.777167044394,16.9486583218049</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.21">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-16</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.775278934128,16.9481463037048</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.22">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-17</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">GV</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.777602232188,16.9500705251297</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.23">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-18</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.776965994662,16.9524161362887</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.24">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-19</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.776072093817,16.9429739616004</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.25">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-20</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.775971718565,16.9426529656156</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.26">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-21</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.781362557102,16.9486627433817</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.27">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-3</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.789648203097,16.9487476409292</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.28">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-4</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.743953651921,16.9109778342569</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.29">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-22</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.776197123077,16.9299719392601</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.30">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-23</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.773698034561,16.9289359932998</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.31">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-24</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.771226896683,16.925731510234</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.32">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-4</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.843964204101,16.94120039618</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.33">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-5</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.842733234782,16.9333230429275</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.34">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-1</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.845205287587,16.8929596679833</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.35">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-2</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.846846349363,16.8924443899025</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.36">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-3</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.857624607933,16.9172089118277</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.37">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-6</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.801913095332,16.9714558163781</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.38">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-7</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.801392315254,16.9741453664499</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.39">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-8</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.801373752853,16.9679969911077</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.40">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-4</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">GV</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.949960041397,16.7456161921963</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.41">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-5</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">GV</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.967992525363,16.8270396825455</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.42">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-6</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">GV</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.858997363374,16.8037325576654</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.43">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-7</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">GV</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.921200217596,16.873558629526</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.44">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-9</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.818759346363,16.9418446907087</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.45">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-10</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.808624217469,16.9455634509654</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.46">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-11</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.803722260601,16.9517257817652</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.47">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-12</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.791030172336,16.9512449051734</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.48">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-13</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.788200893451,16.9652220914491</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.49">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-5</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.683011546783,16.8708287153397</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.50">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-6</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.695861261145,16.8660747238871</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.51">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-7</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.715273221153,16.8568341791543</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.52">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-8</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.657276662186,16.8835279529482</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.53">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-9</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.739340396073,16.8626271907193</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.54">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-10</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.764343653545,16.8701222671458</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.55">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-12</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.770350588487,16.8849641846989</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.56">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:3-1</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.795677347272,16.9211803412823</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.57">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:3-2</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.803602482503,16.8588748232997</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.58">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:3-3</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.804453800078,16.921138071973</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.59">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-8</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.880729107907,16.8888457704836</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.60">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-9</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.88015101688,16.8872271873232</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.61">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-10</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.879838923045,16.8852361170653</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.62">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-11</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">GV</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.878580272198,16.8826844250191</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.63">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-12</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.866278339237,16.87603857857</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.64">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-13</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.852858166095,16.8779020760215</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.65">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-14</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.878884865662,16.8416276664444</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.66">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-15</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.872281216793,16.8430223545255</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.67">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-16</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.910690096624,16.8439062570379</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.68">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-17</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.840564722604,16.8603950416809</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.69">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-18</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.90347644177,16.9040832153869</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.70">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-19</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.892992378666,16.9034193075172</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.71">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-20</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.866181077966,16.9178498472311</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.72">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-21</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.862944733776,16.9162610373007</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.73">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-22</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.848876200859,16.9174545583967</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.74">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-23</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.852359011039,16.9167877617144</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.75">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-11</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.794440846014,16.8802665080179</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.76">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-13</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.810066190546,16.8799539585107</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.77">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-14</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.817116452763,16.9287656105402</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.78">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">C:3-1</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.814276021181,16.9235461207147</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.79">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">C:3-2</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.815620827947,16.9196473057381</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.80">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">C:4-1</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.816282267758,16.9176874466427</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.81">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">C:4-2</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.818659580176,16.919364362924</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.82">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">C:3-3</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.81300959747,16.9160865272528</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.83">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:3-4</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.810913434533,16.9152630584091</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.84">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">C:4-3</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.819154885595,16.9077906525375</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.85">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">C:3-4</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.821963346064,16.9028501269837</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.86">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-14</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.727376000351,16.9103344857344</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.87">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-15</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.771295695113,16.9111420333596</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.88">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:1-25</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.767605865271,16.9561440516129</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.89">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-24</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.868211404977,16.8941240586706</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.90">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-16</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.767407376911,16.9068990737236</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.91">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-25</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.943978764776,16.8004610272443</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.92">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-26</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.935008566698,16.8828643985491</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.93">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-15</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.835362614288,16.8643275606216</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.94">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-17</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.807010141114,16.8352248278091</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.95">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">C:5-1</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.810983683281,16.8378197236228</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.96">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-18</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.781863119137,16.852366879305</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.97">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-19</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.774511463285,16.8625046974547</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.98">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-27</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.851091729208,16.8040852528203</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.99">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-28</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.905787896075,16.8280431690715</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.100">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-29</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.937401144185,16.8402338102511</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.101">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-30</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.916980350034,16.8479527689793</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.102">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-31</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.904884393703,16.8621823913219</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.103">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-32</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.891670936397,16.8626731750494</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.104">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-33</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">GV</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.877502058275,16.8569022311411</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.105">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-34</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">GV</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.874546496128,16.8556245490464</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.106">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-35</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.870721968669,16.8574781505786</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.107">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-36</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">GV</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.866779490928,16.8561178569433</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.108">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-37</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.859263055531,16.8571265616749</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.109">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-38</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.867130248419,16.8474571289912</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.110">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-39</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.868949655662,16.8510569730909</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.111">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-40</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.843545342714,16.8754920425665</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.112">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-41</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.859714147929,16.8220767473108</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.113">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-42</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.873347869024,16.8090628325132</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.114">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:2-20</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.767803371521,16.8912200603362</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.115">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:3-9</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.794662098372,16.8993869414855</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.116">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:3-10</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.802359062434,16.8982441240518</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.117">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:3-11</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.781421727606,16.9020650375924</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.118">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">W:3-12</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.815682254079,16.9054736797974</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.119">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-16</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.79649086156,16.9504061403601</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.120">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-17</SimpleData>
+		<SimpleData name="Conf. Type">3</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.814694208053,16.966874048928</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.121">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-18</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.806112787286,16.9616115037088</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.122">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:4-19</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.818337884023,16.9666939109711</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.123">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-43</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.873399062852,16.9109258728678</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.124">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-44</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.935387081275,16.824485567916</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.125">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-45</SimpleData>
+		<SimpleData name="Conf. Type">1</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.806299712987,16.8177671160981</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="discrepancies.126">
+	<ExtendedData><SchemaData schemaUrl="#discrepancies">
+		<SimpleData name="Code">E:5-46</SimpleData>
+		<SimpleData name="Conf. Type">2</SimpleData>
+		<SimpleData name="Class">RT</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.824539545211,16.8113447607619</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
