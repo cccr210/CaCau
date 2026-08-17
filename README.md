@@ -17,3 +17,7 @@ To fully understand these different files, the Cauayan City official map is reco
 The Cauayan City Boundary and Evidence shows both the boundary and the collected evidence from different variations of online sources.
 
 The Cauayan Weather file shows the risk of rain throughout the most of the rainy season since 2025. It is available in both PDF and XLSX.
+
+## Status
+
+**This project is now closed, after 5.5 months of inability to reach a collaborator open to the project, and is unable to continue for reasons regarding time. The files in this project remains open under the CC-BY-4.0 license if you intend to use it. Thank you for your support, everyone!**
