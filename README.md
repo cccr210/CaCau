@@ -1,3 +1,5 @@
+<img width="890" height="528" alt="CaCau NoLogo" src="https://github.com/user-attachments/assets/ff4aed46-fc02-4dac-b12f-815b610830a7" />
+
 # Project Cadastral Cauayan (CaCau)
 An open-source technical project that aims to fix discrepancies and correct the official boundaries of the barangays of Cauayan City published by the Cauayan City Planning and Development Coordinators' Office.
 
